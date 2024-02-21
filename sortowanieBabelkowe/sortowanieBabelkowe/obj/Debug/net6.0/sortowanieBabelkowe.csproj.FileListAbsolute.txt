@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\sortowanieBabelkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\sortowanieBabelkowe.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\sortowanieBabelkowe.AssemblyInfo.cs
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\sortowanieBabelkowe.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\bin\Debug\net6.0\sortowanieBabelkowe.exe
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\bin\Debug\net6.0\sortowanieBabelkowe.deps.json
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\bin\Debug\net6.0\sortowanieBabelkowe.runtimeconfig.json
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\bin\Debug\net6.0\sortowanieBabelkowe.dll
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\bin\Debug\net6.0\sortowanieBabelkowe.pdb
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\sortowanieBabelkowe.dll
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\refint\sortowanieBabelkowe.dll
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\sortowanieBabelkowe.pdb
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\sortowanieBabelkowe.genruntimeconfig.cache
+C:\Users\student\source\repos\sortowanieBabelkowe\sortowanieBabelkowe\obj\Debug\net6.0\ref\sortowanieBabelkowe.dll
